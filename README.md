@@ -41,8 +41,11 @@ python3 monitor. py
 
 ## 📌 Future Improvements
 . Add logging support (save stats to file)
+
 . Add real-time monitoring with refresh option
+
 . Create system alerts for high CPU/RAM usage
+
 . Add Windows support
 ## Auther
 [535amar](https://github.com/535amar)
