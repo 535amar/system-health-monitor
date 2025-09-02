@@ -29,6 +29,7 @@ system-health-monitor/
 ### 1. Clone the repo
 
 git clone https://github.com/535amar/system-health-monitorgit
+
 cd system-health-monitor
 ### 2.Run the monitor
 python3 monitor. py
